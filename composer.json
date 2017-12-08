@@ -1,16 +1,16 @@
 {
-  "name": "ladavinash17/api-client",
-  "vendor/package": "1.0.0",
+  "name": "avinashlad-printi/api-client",
+  "vendor/package": "1.0.1",
   "type": "library",
   "description": "Api client is PHP based HTTP Client used for hitting your api and getting response",
   "keywords": ["api", "http", "rest", "web service", "curl", "client", "HTTP client"],
-  "homepage": "https://github.com/ladavinash17/api-client",
+  "homepage": "https://github.com/avinashlad-printi/api-client",
   "license": "MIT",
   "minimum-stability": "dev",
   "authors": [
     {
       "name": "Avinash Lad",
-      "email": "ladavinash17@gmail.com"
+      "email": "avinash.lad@printi.com.br"
     }
   ],
   "autoload": {

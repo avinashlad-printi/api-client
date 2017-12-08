@@ -29,7 +29,7 @@ php composer.phar require guzzlehttp/guzzle
 Next, run the Composer command to install the latest stable version of ApiClient:
 
 ```bash
-php composer.phar require avinashlad/api-client
+php composer.phar require avinashlad-printi/api-client
 ```
 
 You can then later update ApiClient using composer:
