@@ -16,6 +16,9 @@ class Routes
         'OMEGA_PREPRESS' => [
             'IMPORT_JOB' => self::API_VERSION.'/prepress/import',
         ],
+        'OMEGA_KERNEL'   => [
+            'ITEM_BY_IDS' => self::API_VERSION.'/order/itemByIds',
+        ],
     ];
 
     /**
